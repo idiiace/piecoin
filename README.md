@@ -1,5 +1,5 @@
 <h1 align="center">
-Dogecoin Core [DOGE, Ð]  
+PieCoin Core [DOGE, Ð]  
 <br/><br/>
 <img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="Dogecoin" width="300"/>
 </h1>
@@ -13,7 +13,7 @@ Dogecoin Core [DOGE, Ð]
 
 Select language: EN | [CN](./README_zh_CN.md)
 
-Dogecoin is a community-driven cryptocurrency that was inspired by a Shiba Inu meme. The Dogecoin Core software allows anyone to operate a node in the Dogecoin blockchain networks and uses the Scrypt hashing method for Proof of Work. It is adapted from Bitcoin Core and other cryptocurrencies.
+PieCoin is a community-driven cryptocurrency that was inspired by a Shiba Inu meme. The Dogecoin Core software allows anyone to operate a node in the Dogecoin blockchain networks and uses the Scrypt hashing method for Proof of Work. It is adapted from Bitcoin Core and other cryptocurrencies.
 
 For information about the default fees used on the Dogecoin network, please
 refer to the [fee recommendation](doc/fee-recommendation.md).
